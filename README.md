@@ -29,7 +29,7 @@ print("Swapped values are:", a, b)
 
 ```
 ## OUTPUT:
-![output](/OUTPUTSWAP.png)
+![output](/output.png)
 
 ## RESULT:
 Thus the swapping of two values are successfully executed.
